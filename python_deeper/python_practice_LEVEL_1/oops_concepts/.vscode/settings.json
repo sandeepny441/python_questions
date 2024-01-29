@@ -1,0 +1,100 @@
+{
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "mysql_sandeep",
+      "database": "classicmodels",
+      "username": "sandeep",
+      "password": "Mercury@100"
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "mysql_sandeep",
+      "database": "classicmodels",
+      "username": "sandeep",
+      "password": "Mercury@100",
+      "connectionTimeout": 40
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "xprotocol"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "driver": "MySQL",
+      "name": "mysql",
+      "database": "classicmodels",
+      "username": "sandeep",
+      "password": "Mercury@100",
+      "connectionTimeout": 50
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "MySQL  Local",
+      "database": "classicmodels",
+      "username": "root",
+      "password": "Mercury@100",
+      "connectionTimeout": 50
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 33060,
+      "askForPassword": false,
+      "driver": "MySQL",
+      "name": "MySQL Local",
+      "database": "classicmodels",
+      "username": "root",
+      "connectionTimeout": 60
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "sandeep_mysql",
+      "database": "sys",
+      "username": "root",
+      "password": "Mercury@100",
+      "connectionTimeout": 59
+    },
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "sandeep_july_11_7_am",
+      "database": "sys",
+      "username": "root",
+      "password": "Mercury@100"
+    }
+  ]
+}
